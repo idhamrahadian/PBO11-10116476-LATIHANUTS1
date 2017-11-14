@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.idhamrahadian.view;
+package com.latihan1.view;
 
-import com.idhamrahadian.model.ModelMahasiswa;
+import com.latihan1.model.ModelMahasiswa;
 import javax.swing.JOptionPane;
 
 /**
